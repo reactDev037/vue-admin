@@ -14,7 +14,6 @@ Subscribe to our [newsletter](https://epicmax.co/newsletter) to get Vuestic upda
 
 - [Node.js](https://nodejs.org/en/) (at least 4.x, 8.x recommended)
 - npm version 3+ and [Git](https://git-scm.com/).
-- [vuestic-installer](https://github.com/epicmaxco/vuestic-installer) `npm install vuestic-installer -g`.
 
 ## Browser Support
 * Latest Chrome, Firefox, Safari, Edge, IE11+
