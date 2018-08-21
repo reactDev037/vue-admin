@@ -21,13 +21,13 @@ Subscribe to our [newsletter](https://epicmax.co/newsletter) to get Vuestic upda
 ## Installation
 
 ``` bash
-# create new project via vuestic-installer command.
+# create new project via vue-installer command.
 $ vue myproject
 
 or
 
 # clone the repo
-$ git clone https://github.com/epicmaxco/vue-admin.git myproject
+$ git clone https://github.com/reactDev937/vue-admin.git myproject
 
 # go into app's directory and install dependencies:
 $ cd myproject
@@ -59,9 +59,3 @@ $ npm run build --report
 * Toasts, tooltips, popovers,
 * i18n
 * and many more!
-
-## Contributing
-Thanks for all your wonderful PRs, issues and ideas!
-
-[![](https://sourcerer.io/fame/smartapant/epicmaxco/vuestic-admin/images/0)](https://sourcerer.io/fame/smartapant/epicmaxco/vuestic-admin/links/0)[![](https://sourcerer.io/fame/smartapant/epicmaxco/vuestic-admin/images/1)](https://sourcerer.io/fame/smartapant/epicmaxco/vuestic-admin/links/1)[![](https://sourcerer.io/fame/smartapant/epicmaxco/vuestic-admin/images/2)](https://sourcerer.io/fame/smartapant/epicmaxco/vuestic-admin/links/2)[![](https://sourcerer.io/fame/smartapant/epicmaxco/vuestic-admin/images/3)](https://sourcerer.io/fame/smartapant/epicmaxco/vuestic-admin/links/3)[![](https://sourcerer.io/fame/smartapant/epicmaxco/vuestic-admin/images/4)](https://sourcerer.io/fame/smartapant/epicmaxco/vuestic-admin/links/4)[![](https://sourcerer.io/fame/smartapant/epicmaxco/vuestic-admin/images/5)](https://sourcerer.io/fame/smartapant/epicmaxco/vuestic-admin/links/5)[![](https://sourcerer.io/fame/smartapant/epicmaxco/vuestic-admin/images/6)](https://sourcerer.io/fame/smartapant/epicmaxco/vuestic-admin/links/6)[![](https://sourcerer.io/fame/smartapant/epicmaxco/vuestic-admin/images/7)](https://sourcerer.io/fame/smartapant/epicmaxco/vuestic-admin/links/7)
-
